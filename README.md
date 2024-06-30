@@ -1,2 +1,2 @@
-# Ashutsoh-demo
+# Ashutosh-demo
 this is my git repository.
